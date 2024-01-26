@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check the live version here : https://65b39036e3fde1ac99ba54a6--stellular-muffin-7df1c7.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
